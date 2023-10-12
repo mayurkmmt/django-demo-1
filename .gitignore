@@ -1,0 +1,17 @@
+/env
+/static
+/db.sqlite3
+/assets/bundles/
+/assets/webpack-stats*
+/devops/terraform/.terraform
+/media/
+local_settings.py
+node_modules
+*.pyc
+.env
+.swp
+.trash
+*.sublime-project
+*.sublime-workspace
+package-lock.json
+.idea

@@ -1,0 +1,11 @@
+/env
+/static
+/db.sqlite3
+/assets/bundles/
+/assets/webpack-stats*
+/devops/terraform/.terraform
+/media
+
+local_settings.py
+node_modules
+*.pyc
